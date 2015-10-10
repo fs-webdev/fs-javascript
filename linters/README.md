@@ -5,9 +5,11 @@ ESLint is our current favored JS linter. We may post recent "best-practice" JSHi
 To use ESLint in your project:
 From your project root dir:
 ```
-npm install --save-dev eslint babel-eslint
-npm install --save-dev https://git@github.com/fs-webdev/fs-javascript/tarball/master
+npm install --save-dev \
+eslint \
+babel-eslint \
+fs-webdev/fs-javascript && \
+cp ./node_modules/fs-javascript/linters/eslint-default.txt .eslintrc
 echo "{\"extends\":\"./node_modules/fs-javascript/linters/.eslintrc\",\"rules\": {}}" > .eslintrc
-
 
 ```

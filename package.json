@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fs-webdev/fs-javascript/issues"
   },
-  "homepage": "https://github.com/fs-webdev/fs-javascript"
+  "homepage": "https://github.com/fs-webdev/fs-javascript",
+  "devDependencies": {
+    "fs-javascript": "git://github.com/fs-webdev/fs-javascript"
+  }
 }
