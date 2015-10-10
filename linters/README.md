@@ -13,7 +13,7 @@ cp ./node_modules/fs-javascript/linters/eslint-default.txt .eslintrc && \
 cp ./node_modules/fs-javascript/linters/.eslintignore .eslintignore
 
 ```
-**Note:** *Installs eslint, babel-eslint engine for ES6 parse ability, installs the FS eslint repo, copies the default FS .eslintrc config and .eslintignore into your project's root dir*
+**Note:** *Installs eslint, babel-eslint engine for ES6 parse ability, installs the FS eslint repo, copies the default .eslintrc project config (extends global .eslintrc) and .eslintignore into your project's root dir*
 
 Then:
 - [Set up an ESLint plugin for your code editor](http://eslint.org/docs/user-guide/integrations#editors)
