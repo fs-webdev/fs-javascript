@@ -1,0 +1,19 @@
+{
+  "name": "fs-javascript",
+  "version": "1.0.0",
+  "description": "A repo to hold FamilySearch WebDev's current JavaScript style guides, both for humans and machines to read, IE: .md or .eslintrc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fs-webdev/fs-javascript.git"
+  },
+  "author": "Jakob Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fs-webdev/fs-javascript/issues"
+  },
+  "homepage": "https://github.com/fs-webdev/fs-javascript"
+}
