@@ -1,4 +1,4 @@
-# FamilySearch WebDev JavaScript Style Guide
+# FamilySearch WebDev JavaScript Style Guide [draft]
 *Our approach to JavaScript, both for humans and machines to read, IE: `.md` or `.eslintrc`*
 
 Other Style Guides
