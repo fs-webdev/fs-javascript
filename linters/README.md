@@ -3,7 +3,7 @@
 ESLint is our current favored JS linter. We may post recent "best-practice" JSHint configs here, if we get to it.
 
 To use ESLint in your project:
-From your project root dir:
+From your project root dir, copy-paste and [return] this code in terminal (OSX):
 ```
 npm install --save-dev \
 eslint \
