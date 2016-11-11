@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fs-webdev/fs-javascript",
   "devDependencies": {
+    "babel-eslint": "^7.1.0",
     "fs-javascript": "git://github.com/fs-webdev/fs-javascript"
   }
 }
