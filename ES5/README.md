@@ -253,7 +253,7 @@ Code can and should not be submitted that does not meet these criteria:
     (condition) ? funcOne() : funcTwo();
 
     // good
-    var myVar (condition) ? 'on' : 'off';
+    var myVar = (condition) ? 'on' : 'off';
     ```
 
 **[⬆ back to top](#table-of-contents)**    
