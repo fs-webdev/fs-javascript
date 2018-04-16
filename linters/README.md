@@ -1,5 +1,7 @@
 # Linters [draft]
 
+# Attention. This linting repo and rules are deprecated. The instructions here will not work correctly with codeclimate, and the frontier team has a new eslint shareable config repo that follows the correct eslint paradigm for sharing a config. Please go there and use that configuration. [fs-webdev/eslint-config-frontier](https://github.com/fs-webdev/eslint-config-frontier)
+
 ESLint is our current favored JS linter. We may post recent "best-practice" JSHint configs here, if we get to it.
 
 To use ESLint in your project:
